@@ -1,0 +1,883 @@
+@media screen and (max-width:1024px) {
+	.hidden-menu-ticker:checked~.btn-menu {
+		right: 0;
+		margin-left: 70%
+	}
+
+	.desc {
+		width: 100%;
+		height: 10vh;
+		margin: auto;
+		display: flex
+	}
+
+	.better {
+		display: flex;
+		width: 65%;
+		margin: auto;
+		align-items: center;
+		margin-top: 50px
+	}
+
+	.form {
+		margin-top: 155px;
+		width: 75%;
+		background-color: rgba(193, 211, 255, .07);
+		border-radius: 10px;
+		display: flex;
+		justify-content: start;
+		flex-direction: column;
+		padding: 30px 48px 46px 54px
+	}
+
+	.problems {
+		width: 100%;
+		margin: auto;
+		display: flex
+	}
+
+	.problem_txt {
+		width: 60%;
+		display: flex;
+		justify-content: center
+	}
+
+	.problem_txt li {
+		list-style: none
+	}
+
+	.document {
+		width: 50%;
+		margin-top: 4% !important;
+		margin: auto
+	}
+}
+
+@media screen and (max-width:980px) {
+    .decrip h1 {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 50px;
+        line-height: 110%;
+        /* identical to box height, or 55px */
+        text-align: center;       
+        color: #FFFFFF;
+	}
+    .decrip p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+	}
+    .neura_font {
+		text-align: center;
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* identical to box height, or 33px */
+
+
+        color: #FFFFFF;
+	}
+    .info_text p {
+        font-family: 'Thin';
+font-style: normal;
+font-weight: 100;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+    }
+    .how .howwork {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* identical to box height, or 33px */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .info p{
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 135%;
+        /* or 24px */
+
+
+        color: #FFFFFF;
+
+        mix-blend-mode: normal;
+    }
+    .about-us .abouts {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+/* identical to box height, or 33px */
+
+
+        color: #FFFFFF;
+
+    }
+	.tm {
+		width: 70%
+	}
+
+	.social {
+		display: none
+	}
+
+	.section1 {
+		align-items: center;
+		flex-direction: column;
+		width: 70%;
+		margin: auto
+	}
+
+	.videoloop {
+		width: 100%;
+	}
+
+	.info {
+		margin-top: 130px;
+		width: 65%;
+		background-color: rgba(193, 211, 255, .07);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: start;
+		font-family: 'Thin';
+		font-style: normal;
+		font-weight: 100;
+		font-size: 20px;
+		line-height: 135%;
+		border-radius: 10px
+	}
+
+	.info p {
+		padding: 5%
+	}
+    .user-card .details .name {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 110%;
+        /* or 22px */
+        
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+    .user-card p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 135%;
+        /* or 24px */
+        
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+    .findings .number {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* identical to box height, or 33px */
+        
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+    .findings p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 135%;
+        /* or 24px */
+        
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+    .title-5{
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+        text-align: center;
+        color: #FFFFFF;
+        
+    }
+    .techs .technology {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 110%;
+        /* identical to box height, or 22px */
+    
+        text-align: center;
+    
+        color: #FFFFFF;
+    }
+    .techs p {
+        padding: 4%;
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+        margin-top: 16px;
+    }
+    .evo {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+    .count {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+    .year {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 135%;
+        /* identical to box height, or 27px */
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+        mix-blend-mode: normal;
+    }
+    .sect_info p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 135%;
+        /* or 24px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+
+    }
+    .future {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* or 33px */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .technology {
+
+    }
+    .betterText p{
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* identical to box height, or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+    .forbank {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* identical to box height, or 33px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+    .multi {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 96px;
+        line-height: 150%;
+        /* identical to box height, or 144px */
+        
+        text-align: center;
+        
+        color: #2B2D33;
+        
+        mix-blend-mode: normal;
+    }
+    .section2 p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* identical to box height, or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+	.about-qua p {
+
+		text-align: start !important;
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+
+
+        color: #FFFFFF;
+
+        mix-blend-mode: normal;
+	}
+
+	.about-qua .left {
+		margin-left: 10%
+	}
+
+	.about-qua .about-m {
+		width: 70%;
+		margin: auto;
+		margin-left: 20%;
+		display: flex;
+		justify-content: start
+	}
+
+	.about-qua .right {
+		margin-left: 10%
+	}
+
+	.userm {
+		width: 70%;
+		margin-left: 10%;
+		display: flex;
+		justify-content: start
+	}
+
+	.desc {
+		width: 70%;
+		height: auto;
+		margin: auto;
+		display: flex;
+		flex-direction: column
+	}
+
+	.item {
+		width: auto;
+		margin: 5%
+	}
+
+	.better {
+		display: flex;
+		width: 45%;
+		margin: auto;
+		align-items: center;
+		margin-top: 50px;
+		flex-direction: column-reverse
+	}
+
+	.betterText {
+		font-size: 22px;
+		font-family: "Light";
+		line-height: 30px;
+		color: grey;
+		text-align: center
+	}
+
+	.multi {
+		font-family: "Proxima";
+		font-size: 128px;
+		line-height: 192px;
+		color: #2B2D33;
+		width: auto;
+		display: flex;
+		align-items: center
+	}
+
+	.form {
+		margin-top: 155px;
+		width: auto;
+		background-color: rgba(193, 211, 255, .07);
+		border-radius: 10px;
+		display: flex;
+		justify-content: start;
+		flex-direction: column;
+		padding: 30px 48px 46px 54px
+	}
+
+
+	.title-m br {
+		display: none
+	}
+
+	.title-m {
+        padding: 8%;
+		font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+        mix-blend-mode: normal;
+	}
+    .problem_txt li {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+	.problem_txt {
+		width: 100%;
+		display: flex;
+		justify-content: center
+	}
+
+	.problem_txt li {
+		list-style: none;
+		text-align: center
+	}
+
+	.problems {
+		width: 100%;
+		height: 55vh;
+		margin: auto;
+		display: flex
+	}
+
+	.problems .pic {
+		display: none
+	}
+
+	.info {
+		height: auto
+	}
+    .care {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .banks {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 110%;
+        /* identical to box height, or 33px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+    .about-title {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 16px;
+        line-height: 135%;
+        /* or 22px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+    .quest {
+        font-family: 'Light';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 135%;
+        /* or 24px */
+        
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+
+	.block_info p {
+		font-family: 'Proxima';
+		font-style: normal;
+		font-weight: 100;
+		font-size: 18px;
+		line-height: 135%;
+		color: #FFF;
+		mix-blend-mode: normal;
+		flex: none;
+		order: 1;
+		flex-grow: 0
+	}
+
+	.document {
+		width: 50%;
+		margin-top: 4% !important;
+		margin: auto
+	}
+
+	.questions {
+		width: 90%;
+		margin: auto
+	}
+
+	.questions p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 16px;
+        line-height: 135%;
+        /* or 22px */
+        
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+
+	}
+
+	.techs {
+		text-align: center
+	}
+    .company svg {
+        width: 70px;
+    }
+}
+@media screen and (max-width: 737px) {
+    .mail {
+		flex-direction: column;
+	}
+}
+@media screen and (max-width:480px) {
+    .problems {
+        width: 100%;
+        height: 64vh;
+        margin: auto;
+        display: flex;
+    }
+	.techs p {
+		font-family: 'Thin';
+		font-style: normal;
+		font-weight: 100;
+		font-size: 18px;
+		line-height: 150%;
+		text-align: center;
+		color: #FFF;
+		mix-blend-mode: normal
+	}
+
+	.neira {
+		width: 100%
+	}
+
+	.about-us .about-title {
+		padding: 5%;
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+	}
+
+	.tm {
+		text-align: left;
+		margin-top: 100px;
+		width: 80%
+	}
+
+	.techs {
+		text-align: center
+	}
+
+	.info {
+		width: 80%;
+		height: 80vh !important
+	}
+
+	.item {
+		margin-top: 17%
+	}
+
+	.company {
+		width: 100%;
+		margin-top: 5% !important;
+		margin: auto;
+		display: flex
+	}
+}
+
+@media screen and (max-width:480px) {
+    .form .early{
+        font-size: 20px;
+    }
+
+	.future {
+		font-family: 'Proxima';
+		font-style: normal;
+		font-weight: 300;
+		font-size: 30px;
+		line-height: 110%;
+		text-align: center;
+		color: #FFF;
+	}
+
+	.pt {
+		padding: 5%
+	}
+
+
+
+
+	.info_text {
+		width: 100%;
+		font-family: 'Thin';
+		font-style: normal;
+		font-weight: 100;
+		font-size: 22px;
+		line-height: 135%;
+		text-align: center
+	}
+    
+    .section2 p {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+        /* or 27px */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+        mix-blend-mode: normal;
+    }
+	.info {
+		height: auto !important
+
+	}
+   
+   
+
+	.tm {
+		width: 80% !important
+	}
+
+	.title-m {
+		padding: 5%
+	}
+
+	.problem_txt li {
+		padding: 2%;
+		font-family: 'Thin';
+		font-style: normal;
+		font-weight: 100;
+		font-size: 18px;
+		line-height: 150%;
+		text-align: center;
+		color: #FFF;
+		mix-blend-mode: normal
+	}
+
+    .info_text {
+        font-family: 'Thin';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 18px;
+        line-height: 150%;
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+        mix-blend-mode: normal;
+    }
+
+	.footer {
+		padding: 17px 150px 21px 17px
+	}
+
+	.inform {
+		display: none
+	}
+
+	.footlinks {
+		flex-direction: column
+	}
+
+	.footlinks ul {
+		flex-direction: column
+	}
+
+	.footlinks ul li {
+		padding: 5px
+	}
+}
+
+@media screen and (max-width:380px) {
+    .form .early{
+        font-size: 20px;
+    }
+
+    .banks{
+        font-size: 30px;
+    }
+    .care{
+        font-size: 24px;
+    }
+    .mail{
+        margin-top: 30px;
+    }
+    .forbank{
+        font-size: 30px;
+    }
+	.pt {
+		margin-top: 30%
+	}
+
+	.f30 {
+		font-size: 30px
+	}
+
+	.tm {
+		width: 80% !important
+	}
+
+	.desc {
+		width: 70%;
+		height: auto;
+		margin: auto;
+		display: flex;
+		flex-direction: column;
+		margin-top: 20%
+	}
+
+	.item {
+		margin-top: 15%
+	}
+
+	.techs {
+		text-align: center;
+		width: fit-content
+	}
+}
+
+@media (max-width:320px) {
+	.user-card {
+		width: 80%
+	}
+
+	.problems {
+		height: 80vh
+	}
+    .company svg {
+        width: 50px;
+    }
+}
